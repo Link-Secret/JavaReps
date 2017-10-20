@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="abstract"/>
+	<classpathentry kind="src" path="interface"/>
+	<classpathentry kind="src" path="cast"/>
+	<classpathentry kind="src" path="instanceof"/>
+	<classpathentry kind="src" path="use"/>
+	<classpathentry kind="src" path="innerclass"/>
+	<classpathentry kind="src" path="factoryPattern"/>
+	<classpathentry kind="src" path="base"/>
+	<classpathentry kind="src" path="Reference"/>
+	<classpathentry kind="src" path="this"/>
+	<classpathentry kind="src" path="static"/>
+	<classpathentry kind="src" path="array"/>
+	<classpathentry kind="src" path="Test"/>
+	<classpathentry kind="src" path="Proxy"/>
+	<classpathentry kind="src" path="adapter"/>
+	<classpathentry kind="src" path="PetShop"/>
+	<classpathentry kind="src" path="Object"/>
+	<classpathentry kind="src" path="Practice"/>
+	<classpathentry kind="src" path="Date"/>
+	<classpathentry kind="src" path="arrayclass"/>
+	<classpathentry kind="src" path="Obser"/>
+	<classpathentry kind="src" path="ch11Test"/>
+	<classpathentry kind="src" path="ch12IO"/>
+	<classpathentry kind="src" path="ch13"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
